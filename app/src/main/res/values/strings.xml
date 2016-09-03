@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="resnombre">Nombre Completo</string>
+    <string name="restelefono">Telefono</string>
+    <string name= "resfecha">diamesaño </string>
+    <string name="resemail">Email</string>
+    <string name="resdescripcion">Descripcion Contacto</string>
+    <string name="botonsiguiente">Siguiente</string>
+    <string name="botoneditardatos">Editar Datos</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">Descripcion Contacto</string>
+    <string name="fecha">Diamesaño</string>
+    <string name="pfecha">Diamesaño</string>
+    <string name= "description_hint">prueba</string>
+</resources>
